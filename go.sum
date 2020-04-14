@@ -1,0 +1,7 @@
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/thecsw/mira v1.1.2 h1:Ve3OqeRI6v99+r8ao8zOn4d7e3KKe3Ha82TJUoKRUSI=
+github.com/thecsw/mira v1.1.2/go.mod h1:0c1MMnwJR8Isu6zwkvgYUiarqipPgDLfYKAURNRHwXo=
+github.com/thecsw/mira v4.0.0+incompatible/go.mod h1:8RC7hhzRf4LKwLkDAleWySPInNKzDOwzuMnRMJL3VrI=
+github.com/thecsw/mira v4.0.1-0.20200327030411-15291b75e90a+incompatible h1:2Ibc95Lb5sl/hGO9f6vmpTJiXkafGtqlKORqTAWemiw=
+github.com/thecsw/mira v4.0.1-0.20200327030411-15291b75e90a+incompatible/go.mod h1:8RC7hhzRf4LKwLkDAleWySPInNKzDOwzuMnRMJL3VrI=
