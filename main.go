@@ -29,7 +29,9 @@ func main() {
 		panic(err)
 	}
 	for _, post := range posts {
-		fmt.Printf("Author: %s, Title: %s, Site: %s\n", post.GetAuthor(), post.GetTitle(), post.GetUrl())
+		fmt.Printf("%s\n", post.GetTitle())
+		fmt.Printf("Author: %s   Points: %.0f\n", post.GetAuthor(), post.GetKarma())
+		fmt.Println("")
 	}
 
 }

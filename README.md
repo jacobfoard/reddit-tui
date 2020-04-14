@@ -7,3 +7,6 @@ Stream 1 Goals:
     * Works!
 * Specify subreddit to list from
     * Basic But works
+
+In Between Streams: 
+* figure out how to use oauth and not script
